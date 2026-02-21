@@ -24,3 +24,5 @@ npm install
 
 # 2. Geliştirme sunucusunu başlat
 npm run dev
+
+<img width="1898" height="988" alt="image" src="https://github.com/user-attachments/assets/162085d7-1a8d-4e4a-9c32-8886766cce69" />
